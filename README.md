@@ -1,1 +1,1 @@
-note manager use single activity 1
+note manager use single activity 2
